@@ -1,5 +1,3 @@
-
--- create
 CREATE TABLE ttable (
     event_id INT,
     event_date DATE,
